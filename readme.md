@@ -1,6 +1,6 @@
-# Documentation Markdown
+# Front
 
-# Documentation Bem
+## Bem
 
 * Block
 * Element `__`
@@ -91,9 +91,10 @@ ou votre HTML.
 }
 ```
 
-## Les unités
+### Les unités
 
 ### REM
+
 L'unité de mesure REM est basée sur la taille de l'élément racine du HTML.
 
 Par défaut, la taille du <html> est de 16px, ce qui veut dire que '1rem = 16px'
@@ -127,7 +128,6 @@ Le REM scale avec la page quand tu zoom
 ### WM
 
 
-
 ## FlexboxGrid
 *[Documentation](http://flexboxgrid.com/)*
 
@@ -144,11 +144,6 @@ Le REM scale avec la page quand tu zoom
     - React
     - Vue
 
-# Job
-
-  * chooseyourboss
-  * Indeed
-  * welcometothejungle
 
 
 # Back
@@ -165,3 +160,9 @@ php -r "unlink('composer-setup.php');"
 php composer-setup.php --install-dir=bin --filename=composer
 Vérifie si composer est bien installer
 ```
+
+# Job
+
+* chooseyourboss
+* Indeed
+* welcometothejungle
